@@ -6,7 +6,7 @@
 
 以下のURLから実際のWebサイトを閲覧できます。
 
-**https://tugumikun8686-cit.github.io/AllinOneSchedule/**
+**https://tugumikun8686-cit.github.io/AllinoneSchedule/**
 
 ---
 
